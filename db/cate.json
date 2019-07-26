@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "学习",
+        "icon": "graduation-cap",
+        "addtime": "2019-06-05"
+    },
+    {
+        "id": 2,
+        "name": "消遣",
+        "icon": "gamepad",
+        "addtime": "2019-06-05"
+    },
+    {
+        "id": 3,
+        "name": "情感",
+        "icon": "heartbeat",
+        "addtime": "2019-06-05"
+    },
+    {
+        "id": 4,
+        "name": "八卦",
+        "icon": "motorcycle",
+        "addtime": "2019-06-05"
+    }
+]
